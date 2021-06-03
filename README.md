@@ -3,16 +3,16 @@ basic script using google sheets api and javascript for aoutomating the process 
 
 Follow these steps to set up this quickstart:
 
-Create a new Google Sheet.
-From within your new sheet, select the menu item Tools > Script editor. If you are presented with a welcome screen, click Blank Project.
-Delete the code in the script editor.
-Click on the "Untitled project" project name, and rename to "Attendance."
-Click Resources > Advanced Google Services.
-In the dialog that appears, find and click the on/off switch for the Google Classroom API and the Admin Reports API.
-Click the down arrow to the right of the Code.js file name.
-Select Rename.
-Rename the file to "Attendance."
-Copy and paste the following code into the script editor:
+ Create a new Google Sheet.
+ From within your new sheet, select the menu item Tools > Script editor. If you are presented with a welcome screen, click Blank Project.
+ Delete the code in the script editor.
+ Click on the "Untitled project" project name, and rename to "Attendance."
+ Click Resources > Advanced Google Services.
+ In the dialog that appears, find and click the on/off switch for the Google Classroom API and the Admin Reports API.
+ Click the down arrow to the right of the Code.js file name.
+ Select Rename.
+ Rename the file to "Attendance."
+ Copy and paste the following code into the script editor:
 
 
 Note: You must have admin permissions to successfully run this quickstart.
